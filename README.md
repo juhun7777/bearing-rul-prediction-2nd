@@ -9,6 +9,9 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1.9+-ee4c2c.svg" alt="PyTorch"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
   <a href="https://phm-korea.or.kr/"><img src="https://img.shields.io/badge/PHM%20Korea-2025-orange.svg" alt="PHM Korea 2025"></a>
+  <br>
+  <img src="https://img.shields.io/badge/🏆%202nd%20Place-Excellence%20Award-gold.svg" alt="2nd Place">
+  <img src="https://img.shields.io/badge/KSPHM--KIMM-Data%20Challenge-red.svg" alt="Data Challenge">
 </p>
 
 <p align="center">
@@ -27,6 +30,10 @@
 > *AI Mechatronics Laboratory (AML), Tech University of Korea*
 >
 > *KSPHM-KIMM Data Challenge, PHM Korea 2025*
+
+### 🏆 Award
+**2nd Place - Excellence Award (최우수상)**
+KSPHM-KIMM Data Challenge, PHM Korea 2025
 
 **Advisor:** Prof. Hyoyoung Kim
 
