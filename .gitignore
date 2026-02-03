@@ -53,8 +53,11 @@ env/
 # ========================================
 data/Train/
 data/Validation Set/
-*.tdms
 *.tdms_index
+
+# Include sample data (override *.tdms exclusion)
+!data/sample/
+!data/sample/**/*.tdms
 
 # ========================================
 # Model Files (Optional - uncomment if not sharing)

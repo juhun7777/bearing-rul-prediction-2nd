@@ -86,6 +86,34 @@ This repository contains the implementation of a **Group-Specific Ensemble Trans
 | Train7 | 40.17 | Group 3 | Failed |
 | Train8 | 16.50 | Group 1 | Failed |
 
+### Data Access
+
+#### Sample Data (Included)
+This repository includes **sample data** for testing purposes:
+- `data/sample/Train1/` - First 5 TDMS files from Train1 (~20MB)
+
+#### Full Dataset
+The complete dataset is provided by **KIMM (Korea Institute of Machinery and Materials)** for the PHM Korea 2025 Data Challenge.
+
+**To obtain the full dataset:**
+1. Visit [PHM Korea](https://phm-korea.or.kr/) official website
+2. Contact KIMM for data access request
+3. Place the downloaded data in the following structure:
+
+```
+data/
+├── Train/
+│   ├── Train1/
+│   ├── Train2/
+│   └── ... (Train8)
+└── Validation Set/
+    ├── Validation1/
+    ├── Validation2/
+    └── ... (Validation6)
+```
+
+> **Note:** The dataset is subject to KIMM's data usage policy. Please cite appropriately when using the data.
+
 ---
 
 ## System Architecture
