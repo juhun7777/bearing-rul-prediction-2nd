@@ -463,7 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Juhun Lee** - AI Mechatronics Laboratory, Tech University of Korea
-- **Email:** juhun7777@tukorea.ac.kr
+- **Email:** juhun7777@gmail.com
 - **Laboratory:** [http://aml.tukorea.ac.kr/](http://aml.tukorea.ac.kr/)
 
 ---
